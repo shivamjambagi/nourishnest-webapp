@@ -1,4 +1,4 @@
-## 🌿 Overview
+##  Overview
 
 NourishNest is a modern healthy-food platform web application designed to promote balanced nutrition and sustainable eating.
 
@@ -11,11 +11,11 @@ The application provides users with a visually engaging interface where they can
 
 The project focuses on modern UI design, smooth animations, responsive layouts, and interactive user experience.
 
-## 🚀 Live Demo
+##  Live Demo
 
 https://nourishnest.netlify.app
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Homepage](https://shorturl.at/nuRtg)
 
@@ -23,14 +23,14 @@ https://nourishnest.netlify.app
 
 ![Pricing Plans](https://shorturl.at/zE2x4)
 
-## ✨ Key Features
+##  Key Features
 🎬 Cinematic Landing Page
 
 • Fullscreen hero section with background video
 • Smooth scrolling navigation
 • Animated UI transitions
 
-## 🥗 Healthy Food Showcase
+##  Healthy Food Showcase
 
 Scroll-based food exploration displaying dishes such as:
 
@@ -42,7 +42,7 @@ Scroll-based food exploration displaying dishes such as:
 
 Each dish highlights nutritional benefits and ingredients.
 
-## 🔎 Food Gallery
+##  Food Gallery
 
 Interactive gallery with:
 
@@ -51,7 +51,7 @@ Interactive gallery with:
 • responsive card layout
 • modern image presentation
 
-## 💳 Subscription Plans
+##  Subscription Plans
 
 Users can explore meal plan options including:
 
@@ -59,7 +59,7 @@ Users can explore meal plan options including:
 • Healthy Nest plan
 • Student discount pricing
 
-## 💬 Community Section
+##  Community Section
 
 The site includes:
 
@@ -67,7 +67,7 @@ The site includes:
 • social proof elements
 • trust-building design components
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The entire interface is fully responsive and works across:
 
@@ -75,7 +75,7 @@ The entire interface is fully responsive and works across:
 • tablet
 • mobile devices
 
-## 🧠 Technologies Used
+##  Technologies Used
 Frontend
 
 • HTML5
@@ -90,7 +90,7 @@ UI & Interaction Concepts
 • responsive layout techniques
 • interactive UI components
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 nourishnest-webapp
@@ -105,7 +105,7 @@ nourishnest-webapp
 └── README.md
 ```
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 ### 1️⃣ Clone the repository
 
@@ -126,7 +126,7 @@ index.html
 ```
 
 in your web browser.
-## 🎯 Design Goals
+##  Design Goals
 
 The goal of this project was to create a clean, elegant food platform interface that emphasizes:
 
@@ -137,7 +137,7 @@ The goal of this project was to create a clean, elegant food platform interface 
 
 The project demonstrates frontend development and UI design capabilities.
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Potential future features include:
 
@@ -149,7 +149,7 @@ Potential future features include:
 • AI-powered meal suggestions
 • user dashboard and meal tracking
 
-## 👨‍💻 Author
+##  Author
 
 Shivam Jambagi
 
@@ -163,11 +163,11 @@ Interests:
 • Artificial Intelligence
 • Technology for Health & Wellness
 
-## 📜 License
+##  License
 
 This project is developed for educational and portfolio purposes.
 
-## ⭐ Support
+##  Support
 
 If you like this project, consider starring the repository on GitHub.
 
